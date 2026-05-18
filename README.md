@@ -315,10 +315,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Your Name**  
 📧 Email: your.email@example.com  
-🐙 GitHub: [@your-username](https://github.com/your-username)  
-🔗 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+🐙 GitHub: [@your-username](https://github.com/Sakib-7004)  
+🔗 LinkedIn: [Your Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nazmus-sakib-82145a33b/))
 
-**Project Repository:** [https://github.com/your-username/MultiVendorEcommerce](https://github.com/your-username/MultiVendorEcommerce)
+**Project Repository:** [https://github.com/Sakib-7004/MultiVendorEcommerce](https://github.com/Sakib-7004/MultiVendorEcommerce)
 
 ---
 
